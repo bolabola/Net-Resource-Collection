@@ -3,7 +3,7 @@
 
    * [Torrent](#Torrent)
    * [e-Learning](#e-Learning)   
-## Torrent
+## torrent
   * [torrentkitty.org](http://www.torrentkitty.org/)
   * [torrentkitty.tv](http://www.torrentkitty.tv/)
   * [torrentkitty.se](http://www.torrentkitty.se/)
@@ -25,4 +25,23 @@
   * [liaoxuefeng.com]( https://www.liaoxuefeng.com/wiki/1016959663602400) - 廖雪峰python入门教程
   * [coursera.org]( https://www.coursera.org/) - Coursera是大型公开在线课程项目，由美国斯坦福大学两名计算机科学教授创办
   * [learngitbranching.js.org]( https://learngitbranching.js.org/) - 生动的交互式git学习
+  
+## temporary email
+
+  * [10minutemail.com](https://10minutemail.com/)
+  * [10minutemail.net](https://10minutemail.net/)
+  * [mail.bccto.me](http://mail.bccto.me/)
+  * [guerrillamail.com](https://www.guerrillamail.com/)
+  * [nowmymail.com]( https://www.nowmymail.com/)  
+  * [temp-mail.org]( https://temp-mail.org/)    
+  * [yopmail.com]( http://www.yopmail.com/zh/)     
+  * [mintemail.com]( https://www.mintemail.com/)  
+
+  
+  
+  
+  
+  
+  
+  
   

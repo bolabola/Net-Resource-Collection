@@ -62,9 +62,12 @@
   * [dx11龙书]( https://enjoyphysics.cn/Soft/NotXNA) -  一位中学物理老师翻译的DX11龙书
   * [MS-HLSL Docs](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl) - Microsoft HLSL Docs
   * [learnopencv](https://www.learnopencv.com/) - learn opencv(c++/python)
-
+  * [3D Game Engine Programming](https://www.3dgep.com/) - personal blog about game programming(opengl/dx/cg/cuda/unity)
+  * [KlayGE](http://www.klayge.org/) - 开源游戏引擎KlayGE
+  * [Tombstone Engine](http://tombstoneengine.com/) - 游戏引擎(C4Engine)
+  * [torque3d](http://torque3d.org/) - The premier open-source game engine.
  
-  
+
  
   
  

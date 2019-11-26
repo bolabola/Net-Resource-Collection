@@ -51,10 +51,19 @@
   * [04front](  http://www.dsg4.com/04/) - 04号字体
   * [snap.svg]( http://snapsvg.io/) - The JavaScript SVG library for the modern web
 
+## Computer Graphics
 
- 
- 
-
+  * [learnopengl-cn.github.io](https://learnopengl-cn.github.io/) - learn OpenGL
+  * [opengl-tutorial.org](http://www.opengl-tutorial.org/cn/) - opengl-tutorial
+  * [songho.ca/opengl](http://www.songho.ca/opengl/) - opengl tutorial by a Korean
+  * [ogldev.atspace.co.uk]( http://ogldev.atspace.co.uk/) - OpenGL Step by Step
+   * [RasterTek](http://www.rastertek.com) - DX10, DX11, and DX12 Tutorials
+  * [directxtutorial](http://www.directxtutorial.com/) - The Ultimate DirectX Tutorial
+  * [MS-HLSL Docs](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl) - Microsoft HLSL Docs
+  
+  
+  
+  
  
   
 

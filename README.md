@@ -38,7 +38,7 @@
   * [yopmail.com]( http://www.yopmail.com/zh/)     
   * [mintemail.com]( https://www.mintemail.com/)  
 ## front
-* icon 
+* icon front
   * [fontello]( http://www.fontello.com/) - icon fonts generator
   * [iconfont]( https://www.iconfont.cn/) - 阿里巴巴矢量图标库
   * [fontawesome]( https://fontawesome.com/)

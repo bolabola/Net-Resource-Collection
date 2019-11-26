@@ -24,7 +24,8 @@
 * [learnpython.com]( https://www.learnpython.org/) - datacamp出品在线python教程
 * [liaoxuefeng.com]( https://www.liaoxuefeng.com/wiki/1016959663602400) - 廖雪峰python入门教程
 * [coursera.org]( https://www.coursera.org/) - Coursera是大型公开在线课程项目，由美国斯坦福大学两名计算机科学教授创办
-* [learngitbranching.js.org]( https://learngitbranching.js.org/) - 生动的交互式git学习
+* [learngitbranching.js.org](https://learngitbranching.js.org/) - 生动的交互式git学习
+* [backlog-git](https://backlog.com/git-tutorial/cn/) - 猴子都能懂的git入门
   
 ## Email
 * temporary email

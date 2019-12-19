@@ -5,7 +5,7 @@
 * [e-Learning](#e-Learning)   
 * [Email](#Email)  
 * [front](#front)  
-* [Design & Graphic](#Design & Graphic)  
+* [Design-Graphic](#Design-Graphic)  
 * [Other](#Other)  
 
 ## torrent
@@ -56,7 +56,7 @@
   * [04front](  http://www.dsg4.com/04/) - 04号字体
   * [snap.svg]( http://snapsvg.io/) - The JavaScript SVG library for the modern web
 
-## Design & Graphic
+## Design-Graphic
   * [scratch]( https://www.scratchapixel.com/) - Learn Computer Graphics From Scratch!
   * [learnopengl-cn.github.io](https://learnopengl-cn.github.io/) - learn OpenGL
   * [opengl-tutorial.org](http://www.opengl-tutorial.org/cn/) - opengl-tutorial

@@ -68,7 +68,8 @@
   * [Tombstone Engine](http://tombstoneengine.com/) - 游戏引擎(C4Engine)
   * [torque3d](http://torque3d.org/) - The premier open-source game engine.
   
- 
+ ## Other
+  * [easy-service](https://github.com/pandolia/easy-service) - 一个开源工具，将程序注册为 Windows 的系统服务.  
   
 
   

@@ -3,6 +3,11 @@
 
 * [Torrent](#Torrent)
 * [e-Learning](#e-Learning)   
+* [Email](#Email)  
+* [front](#front)  
+* [Design & Graphic](#Design & Graphic)  
+* [Other](#Other)  
+
 ## torrent
 * [torrentkitty.org](http://www.torrentkitty.org/)
 * [torrentkitty.tv](http://www.torrentkitty.tv/)

@@ -75,8 +75,9 @@
   
  ## Other
   * [easy-service](https://github.com/pandolia/easy-service) - 一个开源工具，将程序注册为 Windows 的系统服务.  
+  * [Dependencies]( https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" 
+  * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows 开发工具集合   
   
-
   
 
 

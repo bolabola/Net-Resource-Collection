@@ -34,6 +34,7 @@
   
 ## Email
 * temporary email
+  * [guerrillamail.com](https://www.guerrillamail.com/) - 可以发邮件
   * [10minutemail.com](https://10minutemail.com/)
   * [10minutemail.net](https://10minutemail.net/)
   * [mail.bccto.me](http://mail.bccto.me/)

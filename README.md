@@ -38,7 +38,6 @@
   * [10minutemail.com](https://10minutemail.com/)
   * [10minutemail.net](https://10minutemail.net/)
   * [mail.bccto.me](http://mail.bccto.me/)
-  * [guerrillamail.com](https://www.guerrillamail.com/)
   * [nowmymail.com]( https://www.nowmymail.com/)  
   * [temp-mail.org]( https://temp-mail.org/)    
   * [yopmail.com]( http://www.yopmail.com/zh/)     
